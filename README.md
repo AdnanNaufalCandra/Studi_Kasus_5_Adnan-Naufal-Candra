@@ -15,5 +15,7 @@ NIM : 2609116034
 
 - input dan logika perhitungan, jika pengguna memilih 1 (mobil) atau 2 (motor), maka program akan meminta input angka jam masuk dan jam keluaar. lama parkir di hitung seperti jam_keluar - jam_masuk, setelah itu sistem akan menghitung dan menampilkan struk
 
+- print untuk menampilkan teks
+
 **OUTPUT YANG DI HASILKAN**
 <img width="1920" height="1078" alt="● studi kasus DDP 5 py - Visual Studio Code 23_09_2026 01 12 39" src="https://github.com/user-attachments/assets/06f121bd-9ac8-4b45-9b8a-d02f46d04888" />
